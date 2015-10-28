@@ -1,5 +1,5 @@
 %% Robotic Vision
-%% Lecture 2 - Getting an image into MATLAB – MATLAB transcript
+%% Lecture 2 - Lines and regions – MATLAB transcript
 %% 
 clear all; close all; clc;
 %% 
